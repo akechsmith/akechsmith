@@ -12,9 +12,8 @@
 <div align="left">
  
  🌱 I’m currently studying at **JKUAT**
-    .
-🌱 Working to learn Networking,Cybersecurity, IoT, Javascript frameworks and more
-⚡ Fun fact **In "Breaking Bad," the blue methamphetamine seen on the show is actually made of blue rock candy.**
+ 🌱 Working to learn Networking,Cybersecurity, IoT, Javascript frameworks and more
+ ⚡ Fun fact **In "Breaking Bad," the blue methamphetamine seen on the show is actually made of blue rock candy.**
 
 
 <h3 align="left">Connect with Me Here</h3>
