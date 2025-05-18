@@ -21,16 +21,17 @@
 <h3 align="left">Connect with Me Here</h3>
 
 <div align="left"> 
-  <a href="mailto:akdauatem@gmail.com">
+  <a href="mailto:akdauatem@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="32" height="32" />
   </a>
-  <a href="https://www.linkedin.com/in/akech-atem-2a363b2ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
+  <a href="https://www.linkedin.com/in/akech-atem-2a363b2ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32" />
   </a>
-  <a href="https://twitter.com/akech_smith" target="_blank">
+  <a href="https://twitter.com/akech_smith" target="_blank" rel="noopener noreferrer">
     <img src="https://img.icons8.com/ios-filled/50/1DA1F2/twitterx--v1.png" alt="Twitter/X" width="32" height="32" />
   </a>
 </div>
+
 
 
 
