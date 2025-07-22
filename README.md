@@ -5,7 +5,7 @@
 </h1>
 
  <hr/>
-<h3 align="left">passionate software developer.</h3>
+<h3 align="left">A passionate software developer.</h3>
 
 <br/>
 
