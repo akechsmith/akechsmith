@@ -7,8 +7,7 @@
  <hr/>
 <h3 align="left">A passionate software developer.</h3>
 
-<br/>
-<br/>
+<br/>.
 <div align="left">
   <ul>
     <li>🌱 I’m currently studying at <strong>JKUAT</strong></li>
