@@ -1,32 +1,14 @@
-Hello, I'm [Akech](https://www.akechatem.me/).. Interested in learning and exploring more about Machine Learning, Data Structures and Algorithms, DevOps and DApp blockchain.
+Hello, I'm [Akech](https://www.akechatem.me/). Interested in learning and exploring more about Machine Learning, Data Structures and Algorithms, DevOps and DApp blockchain.
+I come from a Computer Science background.
 
 <h4 align="left">Connect with Me</h4>
 
-<p align="left">
-  <a href="mailto:akdauatem@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/akech-atem-2a363b2ba" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/akech_smith" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-000000?style=flat&logo=x&logoColor=white" alt="X" height="28"/>
-  </a>
-
-  <a href="https://instagram.com/thatx.atem_" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://discord.com/users/1343809228313460739" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <!-- <a href="https://leetcode.com/YOUR_USERNAME" target="_blank" rel="noopener noreferrer">
-     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a> --> 
-  <a href="https://medium.com/@akechsxymyzzE" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white" alt="Medium" height="28"/>
-  </a>
-</p>
-
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:akdauatem@gmail.com)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akech-atem-2a363b2ba)&nbsp;
+[![X](https://img.shields.io/badge/-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/akech_smith)&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/thatx.atem_)&nbsp;
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1343809228313460739)&nbsp;
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@akechsxymyzzE)
 
 <!-- Tech Stack -->
 <!-- </br>
