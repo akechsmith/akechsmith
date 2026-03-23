@@ -2,18 +2,30 @@ Hello, I'm [Akech](https://www.akechatem.me/).. Interested in learning and explo
 
 <h4 align="left">Connect with Me</h4>
 
-<div align="left"> 
+<p align="left">
   <a href="mailto:akdauatem@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="32" height="32" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/akech-atem-2a363b2ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32" />
+  <a href="https://www.linkedin.com/in/akech-atem-2a363b2ba" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/akech_smith" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/ios-filled/50/1DA1F2/twitterx--v1.png" alt="Twitter/X" width="32" height="32" />
+    <img src="https://img.shields.io/badge/-000000?style=flat&logo=x&logoColor=white" alt="X" height="28"/>
   </a>
-</div>
 
+  <a href="https://instagram.com/thatx.atem_" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://discord.com/users/1343809228313460739" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <!-- <a href="https://leetcode.com/YOUR_USERNAME" target="_blank" rel="noopener noreferrer">
+     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a> --> 
+  <a href="https://medium.com/@akechsxymyzzE" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white" alt="Medium" height="28"/>
+  </a>
+</p>
 
 
 <!-- Tech Stack -->
