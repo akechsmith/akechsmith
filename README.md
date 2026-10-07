@@ -1,5 +1,4 @@
-Hello, I'm [Akech](https://www.akechatem.me/). Interested in learning and exploring more about Machine Learning, Data Structures and Algorithms, DevOps and DApp blockchain.
-I come from a Computer Science background.
+Hello, I'm [Akech](https://akechsmith.github.io/). 
 
 <h4 align="left">Connect with Me</h4>
 
