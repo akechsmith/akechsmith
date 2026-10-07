@@ -3,7 +3,7 @@ Hello, I'm [Akech](https://akechsmith.github.io/).
 <h4 align="left">Connect with Me</h4>
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:akdauatem@gmail.com)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akech-atem-2a363b2ba)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/akech-atem)&nbsp;
 [![X](https://img.shields.io/badge/-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/akech_smith)&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/thatx.akech_)&nbsp;
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1343809228313460739)&nbsp;
